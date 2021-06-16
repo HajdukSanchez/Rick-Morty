@@ -1,5 +1,6 @@
 import React from 'react';
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom';
+import '../styles/containers/App.scss';
 
 import Home from '../containers/Home';
 import NotFound from '../containers/NotFound';
